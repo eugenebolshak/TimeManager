@@ -11,7 +11,7 @@ header, footer, nav, section {
 
 
 /* Styles for basic forms
---------------------------------------------------------------------------------------------------*/
+-----------------------------------------------------------*/
 fieldset {
     border: 1px solid #ddd;
     padding: 0 1.4em 1.4em 1.4em;
@@ -59,4 +59,3 @@ textarea {
 .validation-summary-valid {
     display: none;
 }
-
